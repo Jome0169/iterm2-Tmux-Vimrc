@@ -772,7 +772,7 @@
 	<key>NSFontPanelAttributes</key>
 	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Programming/SetUpScipts</string>
+	<string>~/Programming/iterm2-Tmux-Vimrc</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -814,15 +814,15 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 126 606 469 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>68 111 796 473 0 0 1280 800 </string>
+	<string>0 252 796 473 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>20 22 1240 755 0 0 1280 800 </string>
+	<string>648 193 442 414 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>20 22 1240 755 0 0 1280 800 </string>
+	<string>190 193 442 414 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>5 0 1270 800 0 0 1280 800 </string>
+	<string>5 463 520 337 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>1024 650 256 150 0 0 1280 800 </string>
+	<string>20 22 1240 755 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
 	<string>215 367 520 337 0 0 1280 800 </string>
 	<key>New Bookmarks</key>
@@ -1471,14 +1471,16 @@
 			</dict>
 			<key>Selection Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.082352941176470587</real>
+				<real>0.30209789937362075</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.082352941176470587</real>
+				<real>0.30209789937362075</real>
 				<key>Red Component</key>
-				<real>0.082352941176470587</real>
+				<real>0.826202392578125</real>
 			</dict>
 			<key>Send Code When Idle</key>
 			<false/>
@@ -1516,6 +1518,8 @@
 			<string>/Users/pabster212</string>
 		</dict>
 	</array>
+	<key>NoSyncHaveUsedCopyMode</key>
+	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
@@ -1558,7 +1562,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/pabster212/Programming/SetUpScipts</string>
+	<string>/Users/pabster212/Programming/iterm2-Tmux-Vimrc</string>
 	<key>SUEnableAutomaticChecks</key>
 	<false/>
 	<key>SUFeedAlternateAppNameKey</key>
@@ -1572,7 +1576,7 @@
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>Secure Input</key>
-	<true/>
+	<false/>
 	<key>ShowBookmarkName</key>
 	<true/>
 	<key>ShowFullScreenTabBar</key>
